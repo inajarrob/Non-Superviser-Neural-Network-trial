@@ -7,4 +7,4 @@ Requisitos:
 - numpy
 - tensorflow
 
-![Alt text](pacmanworking.png?raw=true "Entorno de entrenamiento")
+![alt text](pacmanworking.png?raw=true "Entorno de entrenamiento")
