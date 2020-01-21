@@ -7,4 +7,4 @@ Requisitos:
 - numpy
 - tensorflow
 
-![Alt text](cartpole.jpg?raw=true "Entorno de entrenamiento")
+![Alt text](pacmanworking.png?raw=true "Entorno de entrenamiento")
